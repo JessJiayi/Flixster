@@ -6,8 +6,6 @@ Time spent: **5** hours spent in total
 
 ---
 
-## Flixster Part 1
-
 ### User Stories
 
 #### REQUIRED (10pts)
